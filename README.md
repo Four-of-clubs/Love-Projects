@@ -2,7 +2,7 @@
 A collection of the projects I have made to run in Love2D - A Lua based, open source game engine!
 
 
-As of Aughest 2023, I am putting together this GitHub page to backup and showoff some of the work I've done in Love2D over the past ~2 years. 
+As of August 2023, I am putting together this GitHub page to backup and showoff some of the work I've done in Love2D over the past ~2 years. 
 These were all personal projects made simply for the joy of it. 
 
 If you are looking to run these files check out Love2D's page here: https://love2d.org/ 
