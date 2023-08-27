@@ -9,7 +9,4 @@ If you are looking to run these files check out Love2D's page here: https://love
 
 Simply download, then drag any particular project file ("ex. LovePurple") onto the shortcut. (I know this instruction is weird, see this video for an example: https://youtu.be/kpxkQldiNPU?si=PKLx3168Z_u1m9dE&t=222)
 
-
-I'm planning to put together a website to better show off my love projects before 2024 - there'll be a link here if/when it's ready!
-
-WIP - https://four-of-clubs.github.io/Web-Gallery/
+I'm putting together a webpage to better show off my love projects before 2024 - Check it out at the link here: WIP - https://four-of-clubs.github.io/Web-Gallery/
